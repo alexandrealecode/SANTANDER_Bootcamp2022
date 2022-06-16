@@ -14,5 +14,5 @@ COMANDOS          cd                  cd        -  é usado para trocar de um di
                   del                 rm        -  remove arquivos. Algumas opções do comando. -f : apaga sem pedir confirmação.
                  rmdir                rf        -  remove cada diretório especificado na linha de comandos, se eles estiverem vazios.
                   cls                clear      -   usado para apagar todas as informações mostradas na tela.
-                                      pwd       -  é um acrônimo para print working directory (ou, imprimir diretório de trabalho).
+                                      pwd       -  é um acrônimo para print working directory (ou, imprimir diretório de                                                            trabalho).
                                      ls -a
